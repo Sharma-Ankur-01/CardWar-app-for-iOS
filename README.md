@@ -1,4 +1,4 @@
-# CardWar-game-for-iOS
+# CardWar-app-for-iOS
 
 It's the first game been created by me for iOS.
 
